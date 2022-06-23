@@ -114,6 +114,45 @@ http://103.55.144.46/hls/bindass.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imgur.com/542VNXV.png",Nick
+
+http://103.55.144.46:80/hls/nick.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imgur.com/2tjaJND.png",CN
+
+http://103.55.144.46:80/hls/cn.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://imgur.com/VKSpv5k.png",POGO
+
+http://103.55.144.46:80/hls/pogo.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/animax.png",103. ANIMAX
+
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Sonic-The-Hedgehog-Logo.png",Sonic
+
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids Hindi 
+
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/u7VDHRz.png",Disney Junior 
+
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/xeanFZ7.png",Aniplus
+
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
+
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
