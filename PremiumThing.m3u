@@ -62,8 +62,8 @@ http://103.55.144.46:80/hls/jalshamovies.m3u8
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
 http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian Bangla",Star Jalsha
-http://103.55.144.46/hls/starjalsha.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350"group-title="Indian Bangla",Star Jalsha
+http://103.55.144.46:80/hls/starjalsha.m3u8 
 
 
 
