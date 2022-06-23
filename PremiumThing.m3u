@@ -254,6 +254,55 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
+
+http://103.55.144.46:80/hls/bbcearth.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/QOye6lA.png",Discovery HD
+
+http://103.55.144.46:80/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/m7Cl2M9.png",National Geographic HD
+
+http://103.55.144.46:80/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/dpf1I1U.png",TravelXP
+
+http://103.55.144.46:80/hls/travelxp.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/fKwtX8h.png",TLC HD
+
+http://103.55.144.46:80/hls/tlc.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/9etOm0d.png",Animal Planet HD
+
+http://103.55.144.46:80/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love nature
+
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN
+
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://bdiptv.net/assets/images/discoveryscience.jpg",Discovery Science English 
+
+http://103.55.144.46/hls/dis-science.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/uQ4iijb.png",NASA TV 
+
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC 
+
+http://103.55.144.46/hls/tlc.m3u8
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
