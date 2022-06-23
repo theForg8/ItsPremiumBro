@@ -354,6 +354,13 @@ http://103.55.144.46:80/hls/sonyten3.m3u8
 http://103.55.144.46//hls/stersports1hd.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg",FOX Sports News HD
+
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg",Red Bull TV Sports
+
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 
