@@ -209,6 +209,52 @@ http://103.55.144.46/hls/starplus.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/XsHKNAJ.png",Star World HD
+
+http://103.55.144.46/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/uV8cQ94.png",Sony Pix HD
+
+http://103.55.144.46/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
+
+http://103.55.144.46/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/mML3WAl.png",Movies Now HD
+
+http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iA4v1yN.png",MN+ HD
+
+http://103.55.144.46/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/3Gz2C49.png",MNX HD
+
+http://103.55.144.46/hls/mnx-hd.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/hY5S6K4.png",HBO
+
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/AgjF1pw.png",Cinemax
+
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
