@@ -153,6 +153,62 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/xN5TNtJ.png",ZEE TV HD
+
+http://103.55.144.46:80/hls/zeetv.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+
+http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
+
+http://103.55.144.46:80/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
+
+http://103.55.144.46:80/hls/andpictures.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
+
+http://103.55.144.46:80/hls/zeecinemahd.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
+
+http://103.55.144.46:80/hls/stargold.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
+
+http://103.55.144.46:80/hls/stargold2hd.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
+
+http://103.55.144.46:80/hls/colorscineplex.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
+
+http://103.55.144.46:80/hls/utvaction.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Goldmins
+
+http://103.55.144.46:80/hls/dhin.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max HD
+
+http://103.55.144.46/hls/sony-maxhd.m3u8
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
+
+http://103.55.144.46/hls/stargold2hd.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/UGKHkDS.png",Star Plus HD
+
+http://103.55.144.46/hls/starplus.m3u8
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
 #EXTINF:-1 tvg-logo="" group-title="",
