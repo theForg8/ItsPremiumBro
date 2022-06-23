@@ -353,9 +353,70 @@ http://103.55.144.46:80/hls/sonyten3.m3u8
 
 http://103.55.144.46//hls/stersports1hd.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png",Star Sports 3
 
-http://103.55.144.46/hls/starsports3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,FOX Sports 2
+
+http://190.83.119.67:8000/play/a0rc/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,Fox Sport 3
+
+http://190.83.119.67:8000/play/a0pm/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,ESPN
+
+http://190.83.119.67:8000/play/a0se/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,ESPN  +
+
+http://190.83.119.67:8000/play/a0py/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,ESPN 2
+
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,ESPN 3
+
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,Tigo Sports HD
+
+http://190.83.119.67:8000/play/a0sn/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,Claro Sports  HD
+
+http://190.83.119.67:8000/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports(RawSpeed)" ,Golf Channel
+
+http://190.83.119.67:8000/play/a0o3/index.m3u8
+
+#EXTINF:-1 group-title="Sports(RawSpeed)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_Sports_2.png",beiN Sport 2 English
+
+http://217.74.16.155:8082/local/ar-s/bein-afc-2/index.m3u8
+
+#EXTINF:-1 group-title="Sports(RawSpeed)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_Sports_2.png",beiN Sport 3 English
+
+http://217.74.16.155:8082/local/ar-s/bein-afc-3/index.m3u8
+
+#EXTINF:-1 group-title="Sports(RawSpeed)",Astro Supper Sports
+
+http://203.154.243.89:21201/nakhon
+
+#EXTINF:-1 group-title="Sports(RawSpeed)",Astro Supper Sports 2
+
+http://203.154.243.89:21202/nakhon
+
+#EXTINF:-1 group-title="Sports(RawSpeed)",Astro Supper Sports 3
+
+http://203.154.243.89:21203/nakhon
+
+#EXTINF:-1 group-title="Sports(RawSpeed)",Astro Supper Sports 4
+
+http://203.154.243.89:21204/nakhon
+
 
 
 
