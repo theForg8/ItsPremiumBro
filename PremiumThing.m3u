@@ -503,10 +503,53 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3
 #EXTINF:-1 tvg-id="CON TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuHq63dOfZSiHisyxMDZBKLfqSum1DHqoP0eDupuERR93uV1i2wXTxDQwm8R6orWufWRTw3dKLWvr9j91ilm7RdXBnKGwVVp61Ui4pVlm07ebr8Tk2BwnSPiGnd52hTEvx-pu1uNtUlPfkRGFeNskwMSFLcPjdnlOBqC-ShPKkaYpim9q9RBuMLAM8Hg=s200"  group-title="Others(RawSpeed)",CON TV (US)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="INSIGHT TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="Others(RawSpeed)",INSIGHT TV (US)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YOUNG HOLLYWOOD (US)" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png"  group-title="Others(RawSpeed)",YOUNG HOLLYWOOD (US)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YAHOO FINANCE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9MB1CZd991750JrUs4YG_1RmHWQGVZFHJmI_pqrtD0p4zXJElbIYt56BaJ4c1RHDw43oBD1iy1oe29nYZzRL0j6A0GAdA1XKCG8_QG7bL64aNResleD44xv_CBQD-8UWV6XN8NlyhsxUm8nP5pu_gZ6gKLco5DLSjUkUZyF49Z-qmZztsytGIo_hJ"  group-title="Others(RawSpeed)",YAHOO FINANCE (US)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HNCFREE (US)" tvg-logo="https://www.tophorse.com.au/images/ResizedImages/25-8-16-376462Image2_w200h600.jpg"  group-title="Others(RawSpeed)",HNCFREE (US)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TENNIS CHANNEL (US)" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png"   group-title="Others(RawSpeed)",TENNIS CHANNEL (US)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE (DE)" tvg-logo="https://xite.nl/img/xite_logo.png"  group-title="Others(RawSpeed)",XITE (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CLUBBING TV (US)" tvg-logo="https://clubbingtv.com/wp-content/uploads/2020/03/28871077_10156228412558762_7217888941192511488_n.jpg"   group-title="Others(RawSpeed)",CLUBBINGTV (US)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRACKLE (US)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjm3Nj9qgZS9tCp_LL18dz0dODwaNJRZiWcAqSnwR7caZry3k_4gAoJ-uhQfB-6Db_dI0rMfKoPDDE9uLJZMDjS7wUYJz4v3RWwsKl7K9GXdWu8rGbctfqWq6Z9HLty4gHgxVx5CYyeanifoxfhSKNBQcIvUfe_YZ3sQNdkPhZQGwk5brOv1u7L7oHh"  group-title="Others(RawSpeed)",CRACKLE (US)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MYTIME (US)" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png"  group-title="Others(RawSpeed)",MYTIME (US)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIESPHEREUK (US)" tvg-logo="https://pbs.twimg.com/profile_images/1220039944174878721/-E50IOP__400x400.jpg"  group-title="Others(RawSpeed)",MOVIESPHEREUK (US)
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMMORUNTIME (US)" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2022/01/28/61e4f4846faea-384x384.png"  group-title="Others(RawSpeed)",AMMORUNTIME (US)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORTSGRID (US)" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png"  group-title="Others(RawSpeed)",SPORTSGRID (US)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE (US)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="Others(RawSpeed)",LOVE NATURE (US)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO (US)" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg"  group-title="Others(RawSpeed)",LEGO (US)
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="SMITH SONIANA CHANNEL (US)" tvg-logo="https://dreamdth.com/wp-content/uploads/2021/02/Smithsonian-Channel-Logo.png"   group-title="Others(RawSpeed)",SMIT SONIANA CHANNEL (US)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PAC12 (US)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/pac12_network.png"  group-title="Others(RawSpeed)",PAC12 (US)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BRAT TV (US)" tvg-logo="https://deadline.com/wp-content/uploads/2021/09/Brat-TV.png"  group-title="Others(RawSpeed)",BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TASTE MADE (US)" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="Others(RawSpeed)",TASTE MADE (US)
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/InWild_1000x1000_Circle.png"   group-title="Others(RawSpeed)",IN WILD (AU)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN TROUBLE" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png"  group-title="Others(RawSpeed)",IN TROUBLE (IN)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5f6f52de1d058032c88afd13/1601131233440/EDGEsport+Dark.png"  group-title="Others(RawSpeed)",EDGE SPORTS (UK)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8 
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",
