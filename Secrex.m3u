@@ -4,12 +4,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfrlEVH.png" group-title="Bangladeshi", Asian TV HD 
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangladeshi", ATN News
-http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGSKQFL.png" group-title="Bangladeshi", BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XTuFJQp.png" group-title="Bangladeshi", Bangla TV HD
@@ -30,12 +26,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
-http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangladeshi", Duronto TV 
 http://103.121.14.18/hls/duranta.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-http://103.138.164.70:8088/CH15-BD4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qBJhWg.png" group-title="Bangladeshi", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla
@@ -278,30 +270,30 @@ http://iptv12k.com:35461/17501083101/524668/621
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/HV1s3dL/Tsports.png",T Sports(Akashdth)
 http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/k4Bypxb/SonySix.jpg",Sony SIX HD
-http://103.121.14.18/hls/sonysix.m3u8
-#http://103.179.246.243:8000/play/a00f
+#http://103.121.14.18/hls/sonysix.m3u8
+http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7CTXHY4/Sonyten1.jpg",Sony Ten 1 HD
-http://103.121.14.18/hls/sonyten1.m3u8
-#http://103.179.246.243:8000/play/a00e
+#http://103.121.14.18/hls/sonyten1.m3u8
+http://103.179.246.243:8000/play/a00e
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/svnrSYk/Sonyten2.jpg",Sony Ten 2 HD
-http://103.121.14.18/hls/sonyten2.m3u8
-#http://103.179.246.243:8000/play/a01a
+#http://103.121.14.18/hls/sonyten2.m3u8
+http://103.179.246.243:8000/play/a01a
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
-http://103.121.14.18/hls/stersports1hd.m3u8
-#http://103.162.136.235:4500/play/a015/index.m3u8
+#http://103.121.14.18/hls/stersports1hd.m3u8
+http://103.162.136.235:4500/play/a015/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/pW7Ysyj/Star-Sports1-Hindi.jpg",StarSports 1 Hindi
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/ygYNTyX/Starsports2.jpg",StarSports 2 HD
-http://103.121.14.18/hls/starsports2.m3u8
-#http://103.162.136.235:4500/play/a016/index.m3u8
+#http://103.121.14.18/hls/starsports2.m3u8
+http://103.162.136.235:4500/play/a016/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Zgrh4dT/Starsports3.jpg",StarSports 3HD
 http://103.162.136.235:4500/play/a013/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/2v6g6f6/Starsportss1.jpg",Star Sports Select 1 HD
-http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
-#http://103.162.136.235:4500/play/a00v/index.m3u8
+#http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
+http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dQxgRh9/Starsportss2.jpg",Star Sports Select 2 HD
-http://103.121.14.18/hls/select2.m3u8
-#http://103.162.136.235:4500/play/a00w/index.m3u8
+#http://103.121.14.18/hls/select2.m3u8
+http://103.162.136.235:4500/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",EDGE Sports
 https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
