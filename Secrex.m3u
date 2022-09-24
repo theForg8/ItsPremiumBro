@@ -33,13 +33,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangladeshi", Duronto TV 
-http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+http://103.121.14.18/hls/duranta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
 http://103.138.164.70:8088/CH15-BD4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qBJhWg.png" group-title="Bangladeshi", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla
-http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+http://103.121.14.18/hls/gb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png" group-title="Bangladeshi", Gazi TV HD.
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png" group-title="Bangladeshi", Gazi TV HD..
